@@ -56,7 +56,10 @@
 </p>
 </details>
   
-  |File Name | Concepts | Discription |
+### Concepts in File...
+  
+|File Name | Concepts | Discription |
 | --- | --- | --- |
 | opp | Classes and access modifiers | using classes which is a template to create real world objects. |
 | arraysinclasses | Arrays in Classes | Taking input in arrays and displaying them |
+| table | While, do-while and for | Using while, do-while and for loop to print the table of 6 |

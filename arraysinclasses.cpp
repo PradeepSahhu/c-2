@@ -6,7 +6,7 @@ class shop
 {
     int itemId[10];
     int itemPrice[10];
-    int counter;
+    int counter; // ---> set the items in the array. so every new obj it is set to 0;
 
 public:
     void initCounter(void){counter = 0;}

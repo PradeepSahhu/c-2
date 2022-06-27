@@ -9,7 +9,7 @@ class Complex{
         a = n1;
         b = n2;
     }
-    friend Complex sumComplex(Complex o1, Complex o2);
+    friend Complex sumComplex(Complex o1, Complex o2); //--> Its data type is class.
     void Print(void){
         cout<<"The value is: "<<a<<" + "<<b<<"i"<<endl;
     }

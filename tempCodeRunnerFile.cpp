@@ -1,1 +1,1 @@
-friend int Calculator;
+culator; 

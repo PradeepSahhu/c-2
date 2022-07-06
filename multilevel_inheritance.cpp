@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-class Student
+class Student //--- First class here...
 {
 protected:
     int roll_number;
@@ -21,7 +21,7 @@ void Student::get_roll_number(void)
     cout << "The Student Roll Number is: " << roll_number << endl;
 }
 
-class Exam : public Student
+class Exam : public Student //-------- Second class here...
 {
 protected:
     int maths;
@@ -43,7 +43,7 @@ void Exam ::get_marks(void)
     cout << "The marks of mathematics is: " << maths << endl;
     cout << "The marks of physics is: " << physics << endl;
 }
-class Result : public Exam
+class Result : public Exam  //---Third class here.
 {
     float percentage;
 

@@ -1,3 +1,5 @@
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/PradeepSahhu/c-2/total?color=%23000000&label=Version&logo=C%2B%2B&logoColor=%23A30701&style=plastic">
+
 
 <h1 align="center"> Advance topics of C++, Object oriented programming </h1>
 

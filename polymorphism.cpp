@@ -11,11 +11,11 @@ int main(){
     // - e.g. Virtual functions
 /*
     Polymorphism in c++ can be of two types:
-    1. Compile time polymorphism.
+    1. Compile time polymorphism. (Early Binding)
         compile time polymorphism in c++ is achieved using:
         1.1  - Function overloading.
         1.2 - Operator overloading.
-    2. Run time overloading.
+    2. Run time overloading.    (Late Binding)
         2.1 - virtual functions.
 
 */

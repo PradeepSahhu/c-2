@@ -63,3 +63,8 @@
 | opp | Classes and access modifiers | using classes which is a template to create real world objects. |
 | arraysinclasses | Arrays in Classes | Taking input in arrays and displaying them |
 | table | While, do-while and for | Using while, do-while and for loop to print the table of 6 |
+| Polymorphism | Polymorphism two types | Compile time polymorphism and run time polymorphism. | 
+
+
+![Screenshot (351)](https://user-images.githubusercontent.com/94203408/177679446-3363d441-b121-4b3b-9239-18570b80d8be.png)
+

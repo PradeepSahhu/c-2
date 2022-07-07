@@ -1,3 +1,5 @@
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/PradeepSahhu/c-2/total?color=%23000000&label=Version&logo=C%2B%2B&logoColor=%23A30701&style=plastic">
+
 
 <h1 align="center"> Advance topics of C++, Object oriented programming </h1>
 
@@ -63,3 +65,8 @@
 | opp | Classes and access modifiers | using classes which is a template to create real world objects. |
 | arraysinclasses | Arrays in Classes | Taking input in arrays and displaying them |
 | table | While, do-while and for | Using while, do-while and for loop to print the table of 6 |
+| Polymorphism | Polymorphism two types | Compile time polymorphism and run time polymorphism. | 
+
+
+![Screenshot (351)](https://user-images.githubusercontent.com/94203408/177679446-3363d441-b121-4b3b-9239-18570b80d8be.png)
+

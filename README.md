@@ -67,6 +67,12 @@
 | table | While, do-while and for | Using while, do-while and for loop to print the table of 6 |
 | Polymorphism | Polymorphism two types | Compile time polymorphism and run time polymorphism. | 
 
+<details><summary> Here is polymorphism Basic structure and File I/O stream </summary>
+
 
 ![Screenshot (351)](https://user-images.githubusercontent.com/94203408/177679446-3363d441-b121-4b3b-9239-18570b80d8be.png)
+![Screenshot (353)](https://user-images.githubusercontent.com/94203408/177867457-e7f1d501-85af-4ad2-bf5a-57f4b85018d4.png)
+
+
+</details>
 

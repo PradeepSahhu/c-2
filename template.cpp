@@ -2,7 +2,7 @@
 // Video : 64
 #include <iostream>
 using namespace std;
-template <class T>
+template <class T> // Here T can be any data type int, float, char etc...
 class vector
 {
 
